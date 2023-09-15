@@ -14,7 +14,7 @@ html, body{
 h1{
     font-family: 'Rubik', sans-serif;
     font-weight: 300;
-    font-size: 70px;
+    font-size: 60px;
     color: white;
 }
 
@@ -177,6 +177,8 @@ Welcome Screen CSS
     align-items: center;
 
     flex-wrap: wrap;
+
+    margin-top: 10px;
 }
 
 #textWrapper{
@@ -393,6 +395,8 @@ Skill Screen CSS
     padding: 7px;
     box-shadow: 5px;
     cursor: pointer;
+
+    margin-right: 5px;
 }
 
 /*
